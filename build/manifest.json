@@ -2,7 +2,7 @@
   "short_name": "Predictive Maintenance",
   "name": "Inference with Transformers in the Browser",
   "icons": [],
-  "start_url": "http://localhost:3002",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
